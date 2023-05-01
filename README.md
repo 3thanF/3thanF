@@ -1,1 +1,1 @@
-<h1>Hello, i´m Ethan</h1>![gif](https://user-images.githubusercontent.com/132306277/235545909-13cb9390-3b4e-4869-8419-9b8b22f418ef.gif)
+<h1>Hello, i´m Ethan</h1> ![gif](https://user-images.githubusercontent.com/132306277/235546164-a8596961-361b-4a46-b2af-23c049d2c582.gif)
