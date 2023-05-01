@@ -3,5 +3,4 @@
   <p> I am 19 years old and im interested in the AI field. 
     <img src="https://user-images.githubusercontent.com/132306277/235547711-76368b15-fe48-4196-9874-d75814353851.gif" align = 'right'/>
   </p>
-  [![Linkedin: Ethan Fallas](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/ethan-fallas-2a4ba2274)
 </div>
