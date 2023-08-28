@@ -1,6 +1,6 @@
-<h1 align = "center"> Hi, i'm Ethan! <img src="https://user-images.githubusercontent.com/132306277/235547711-76368b15-fe48-4196-9874-d75814353851.gif" width = 100px  align = 'center'/></h1>
+<h1 align = "center"> Hey, this is a resume about myself! <img src="https://user-images.githubusercontent.com/132306277/235547711-76368b15-fe48-4196-9874-d75814353851.gif" width = 100px  align = 'center'/></h1>
 <div>
-  <p> I am 19 years old and im interested in the AI field. </p>
+  <p> I'm a young mind focused on the Artificial Intelligence field. This are some of my skills: </p>
 </div>
 
 ```python
@@ -8,9 +8,9 @@ class 3thanF:
 
     def __init__(self):
         self.username = '3thanF'
-        self.name = 'ethan'
+        self.name = 'Ethan'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'Boostrap'],
+            'frontend': ['HTML', 'CSS', 'Boostrap', 'JavaScript'],
             'backend': ['Python'],
             'database': ['MySQL'],
             'tools': ['GIT', 'GitHub', 'Pandas', 'Jupyter notebook'],
