@@ -11,9 +11,9 @@ class 3thanF:
         self.name = 'Ethan'
         self.code = {
             'frontend': ['HTML', 'CSS', 'Boostrap', 'JavaScript'],
-            'backend': ['Python'],
-            'database': ['MySQL'],
-            'tools': ['GIT', 'GitHub', 'Pandas', 'Jupyter notebook'],
+            'backend': ['Python', 'PHP', 'Java'],
+            'database': ['MySQL', 'MongoDB'],
+            'tools': ['Git', 'GitHub', 'Pandas', 'Jupyter notebook'],
         }
 
     def __str__(self):
