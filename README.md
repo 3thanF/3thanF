@@ -4,7 +4,7 @@
 </div>
 
 ```python
-class 3thanF:
+class EthanF:
 
     def __init__(self):
         self.username = '3thanF'
@@ -20,5 +20,5 @@ class 3thanF:
         return self.name
         
     if __name__ == '__main__':
-      me = 3thanF()
+      me = EthanF()
 ```
