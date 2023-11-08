@@ -1,5 +1,5 @@
 # Hello World, I'm Ethan – AI Enthusiast & Code Whisperer 🤖👨‍💻
-
+![r2d2](https://images.pexels.com/photos/2085831/pexels-photo-2085831.jpeg)
 ## 🚀 Who am I?
 In the matrix of the digital world, I'm a student, a creator, and an explorer at the forefront of the AI revolution. I'm not just studying algorithms; I'm learning to speak the language of artificial minds.
 
