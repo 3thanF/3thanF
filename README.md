@@ -1,4 +1,4 @@
-<img height=190px align="left" src="https://icons.iconarchive.com/icons/artua/star-wars/256/R2D2-icon.png"> 
+<img height=180px align="left" src="https://icons.iconarchive.com/icons/artua/star-wars/256/R2D2-icon.png"> 
 
 ### Hey!
 
