@@ -8,7 +8,7 @@ Welcome to my Github. I'm **Ethan**, a Software Engineer student at Fidélitas U
 
 <br>
 
-I started this beautiful journey **1** year ago, constantly pushing myself into the deep knowladge of this area. Here you can see some of **my projects**:
+I started this beautiful journey **1** year ago, constantly pushing myself into this area. Here you can see some of **my projects**:
 
 [ChatBot](https://github.com/3thanF/ChatBot_V1.git) - My first **chatbot**
 
