@@ -1,25 +1,15 @@
-# Hello World, I'm Ethan – AI Enthusiast & Code Whisperer 🤖👨‍💻
-![R2D2 Icon](https://icons.iconarchive.com/icons/artua/star-wars/256/R2D2-icon.png)
-## 🚀 Who am I?
-In the matrix of the digital world, I'm a student, a creator, and an explorer at the forefront of the AI revolution. I'm not just studying algorithms; I'm learning to speak the language of artificial minds.
+<img height=190px align="left" src="https://icons.iconarchive.com/icons/artua/star-wars/256/R2D2-icon.png"> 
 
-## 🎓 My Quest for Knowledge
-- 🧠 Decoding the secrets of Neural Networks at Fidélitas University.
-- 📚 Absorbing every byte of knowledge from MOOCs on Machine Learning and Data Science.
+### Hey!
 
-## 💡 Masterpieces I'm Sculpting
-- **🤖 Sentience Seeker**: A quest to craft a chatbot with a spark of personality.
+Welcome to my Github. I'm **Ethan**, a Software Engineer student at Fidélitas University with deep interest in Artificial Intelligence.
 
-## 🛠️ Arsenal of Skills
-- **Spellcasting in Languages**: Conjuring spells with Python and Java.
-- **Framework Alchemy**: Transmuting ideas into reality with TensorFlow, PyTorch, and Scikit-learn.
-- **Tool Mastery**: Weaving code with Jupyter Notebook and orchestrating versions with Git.
+[![views](https://komarev.com/ghpvc/?username=3thanF&style=social&color=313131&label=views)](https://github.com/3thanF)
 
-## 📈 My Tale of Contributions
+<br>
 
-![Ethan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=highcontrast&hide_title=true)
+I started this beautiful journey **1** year ago, constantly pushing myself into the deep knowladge of this area. Here you can see some of **my projects**:
 
-## 🌐 Portals to My World
-- **LinkedIn Portal**: [Step into my professional realm](https://linkedin.com/in/yourusername)
-- **Scroll of Correspondence**: Send your ravens to your.email@example.com
+[ChatBot](https://github.com/3thanF/ChatBot_V1.git) - My first **chatbot**
 
+I'm actively learning about Machine Learning where I'm looking into Artificial Neural Networks, Deep Learning and algorithms.
