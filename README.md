@@ -16,24 +16,21 @@ I started this beautiful journey **1** year ago, constantly pushing myself into 
   - **Core Features**:
     - **Intelligent Interaction**: Employs Difflib and JSON to interpret user input and generate relevant responses.
     - **Adaptive Learning**: The Chatbot evolves by learning from user interactions, enhancing its response accuracy over time.
-    - **User-Friendly Interface**: Easy-to-use interface ensuring smooth user interactions.
   - **Technical Stack**:
     - **Python**: Primary programming language for backend logic.
     - **JSON**: Managing and storing conversational data.
     - **Difflib**: Facilitates pattern matching and text comparison.
-  - **Objective**: The goal is to develop a Chatbot that not only responds accurately but also learns and adapts to user preferences, making each interaction more personalized and engaging.
 
 - ### Unsupervised Learning Notebook 📊
-  - **Project Overview**: This Jupyter Notebook demonstrates key concepts in unsupervised learning. It includes algorithms like K-means clustering, uses Python with libraries like NumPy, Matplotlib, and scikit-learn, and applies these to real-world datasets for practical insights.
+  - **Project Overview**: This Jupyter Notebook demonstrates key concepts in unsupervised learning. It includes algorithms like clustering, uses Python with libraries like NumPy, Matplotlib and applies these to real-world datasets for practical insights.
   - **Key Components**:
     - **Python**: For programming
     - **NumPy**: Numerical computations
     - **Matplotlib**: Data visualization
   - **Highlights**:
     - Application of clustering algorithms
-    - Advanced data visualization techniques
+    - Data visualization techniques
     - Performance evaluation in unsupervised learning
-  - **Aim**: This project aims to provide a comprehensive understanding of unsupervised learning processes and their applications in data analysis.
 
 <hr>
   <div>
