@@ -7,36 +7,13 @@ Welcome to my Github. I'm **Ethan**, a Software Engineer student at Fidélitas U
 
 [![views](https://komarev.com/ghpvc/?username=3thanF&style=social&color=313131&label=views)](https://github.com/3thanF)
 
-<hr>
-
-I started this beautiful journey **1** year ago, constantly pushing myself into this area. Here you can see some of **my projects**:
-
-- ### Chatbot 💬
-  - **Project Description**: This project showcases an interactive Chatbot designed to enhance user experience through dynamic conversations. Utilizing Python, it incorporates advanced natural language processing techniques.
-  - **Core Features**:
-    - **Intelligent Interaction**: Employs Difflib and JSON to interpret user input and generate relevant responses.
-    - **Adaptive Learning**: The Chatbot evolves by learning from user interactions, enhancing its response accuracy over time.
-  - **Technical Stack**:
-    - **Python**: Primary programming language for backend logic.
-    - **JSON**: Managing and storing conversational data.
-    - **Difflib**: Facilitates pattern matching and text comparison.
-
-- ### Unsupervised Learning Notebook 📊
-  - **Project Overview**: This Jupyter Notebook demonstrates key concepts in unsupervised learning. It includes algorithms like clustering, uses Python with libraries like NumPy, Matplotlib and applies these to real-world datasets for practical insights.
-  - **Key Components**:
-    - **Python**: For programming
-    - **NumPy**: Numerical computations
-    - **Matplotlib**: Data visualization
-  - **Highlights**:
-    - Application of clustering algorithms
-    - Data visualization techniques
-    - Performance evaluation in unsupervised learning
-
+I started this beautiful journey **1** year ago, constantly pushing myself into this area. Here you will find some of **my projects**. Also, here is a **stack of technologies** I've learned:
 <hr>
   <div>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
+  <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" alt="Scipy">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensor">
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
@@ -48,6 +25,10 @@ I started this beautiful journey **1** year ago, constantly pushing myself into 
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="PLSQL">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle">  
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="PowerBI">
   <br>
   <br>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
