@@ -2,7 +2,7 @@
 
 ## Hey!
 
-Welcome to my Github. I'm **Ethan**, a Software Engineer student at Fidélitas University with deep interest in **Artificial Intelligence**. I'm actively learning about Machine Learning where I'm looking into Artificial Neural Networks, Deep Learning and algorithms.
+Welcome to my Github. I'm **Ethan** and I'm currently pursuing advanced studies in Machine Learning. As a seasoned machine learning engineer, my focus lies in the realm of Artificial Intelligence. My ongoing exploration delves into intricate areas such as Artificial Neural Networks, Deep Learning, and natural language models.
 
 
 [![views](https://komarev.com/ghpvc/?username=3thanF&style=social&color=313131&label=views)](https://github.com/3thanF)
